@@ -5,7 +5,7 @@
             <h1 class="ease duration-100 delay-500"> Nuxt Chakir App </h1>
             <button
                 class="text-red-600 border-red-900 bg-gray-400 p-5 hover:text-white hover:shadow-lg text-lg shadow-xl rounded-xl">
-                Hi Tailwind </button>
+                Hi Tailwind From Server </button>
         </div>
         <div class="px-6 py-4">
             <span class="badge mr-2">#photography</span>
